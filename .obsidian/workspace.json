@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "a7ba1b3ee8861cd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3824850d56d8bcea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9583fecf78a9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photosynthesis in Higher Plants.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35fffbb4a2f77087",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d7c92caf6730477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "391129df17144eb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94cd4071a2e47ad2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1698fab3b49f20b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "56a2d9cd36a94d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d6000629b6c7f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "454a2d41c24e5ff8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Photosynthesis in Higher Plants.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd64a24b8996f1e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Photosynthesis in Higher Plants.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db915e1dd372828b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e285d77ebd57f331",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Photosynthesis in Higher Plants.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf9583fecf78a9ae",
+  "lastOpenFiles": [
+    "Assets/Pasted image 20240406233450.png",
+    "Assets",
+    "NEET.md",
+    "Photosynthesis in Higher Plants.md",
+    "README.md"
+  ]
+}
