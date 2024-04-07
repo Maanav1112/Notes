@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3824850d56d8bcea",
+        "id": "f5a8d800bc9516e8",
         "type": "tabs",
         "children": [
           {
-            "id": "cf9583fecf78a9ae",
+            "id": "389b6c5d7fc199a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dd583fde834f92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oscillations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +77,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4d0f407a9cf5b624",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photosynthesis in Higher Plants.md",
+                "file": "Oscillations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photosynthesis in Higher Plants.md",
+                "file": "Oscillations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photosynthesis in Higher Plants.md"
+                "file": "Oscillations.md"
               }
             }
           }
@@ -147,12 +168,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf9583fecf78a9ae",
+  "active": "0dd583fde834f92f",
   "lastOpenFiles": [
-    "Assets/Pasted image 20240406233450.png",
-    "Assets",
-    "NEET.md",
     "Photosynthesis in Higher Plants.md",
+    "NEET.md",
+    "Assets/Pasted image 20240406233450.png",
+    "Assets/Untitled.jpg",
+    "Oscillations.md",
+    "Assets/Pasted image 20240407152657.png",
+    "Assets/Springs-in-Series-Combination.png",
+    "Assets/Graphical-representation-of-SHM-2.png",
+    "Assets/Graphical-representation-of-SHM-3.png",
+    "Assets/Pasted image 20240407151517.png",
+    "Assets/Pasted image 20240407151217.png",
+    "Assets/Graphical-representation-of-SHM-1.png",
+    "Assets/Pasted image 20240407151148.png",
+    "Untitled",
+    "Photosynthesis in Higher Plants.tex",
+    "Spaces",
+    "Assets",
     "README.md"
   ]
 }
