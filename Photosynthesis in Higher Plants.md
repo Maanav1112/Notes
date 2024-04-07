@@ -8,3 +8,4 @@ Anabolic, enzyme regulated (biochemical) formation of organic materials from CO2
 ![[Pasted image 20240406233450.png]]
 stroma of chloroplast
 
+Fuck you
