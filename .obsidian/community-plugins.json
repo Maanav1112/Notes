@@ -4,5 +4,7 @@
   "obsidian-icon-folder",
   "nldates-obsidian",
   "make-md",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-minimal-settings",
+  "automatic-table-of-contents"
 ]

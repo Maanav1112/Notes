@@ -1,5 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "LYT Mode",
-  "textFontFamily": ""
+  "cssTheme": "Minimal",
+  "textFontFamily": "",
+  "theme": "obsidian",
+  "baseFontSize": 16
 }

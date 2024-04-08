@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "389b6c5d7fc199a7",
+            "id": "afd851baeeea3165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photosynthesis in Higher Plants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dd583fde834f92f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oscillations.md",
+                "file": "Waves.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oscillations.md",
+                "file": "Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oscillations.md",
+                "file": "Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oscillations.md"
+                "file": "Waves.md"
               }
             }
           }
@@ -168,24 +155,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dd583fde834f92f",
+  "active": "afd851baeeea3165",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240409021445.png",
+    "Assets/Pasted image 20240409021208.png",
+    "Assets/Pasted image 20240409021037.png",
+    "Assets/Pasted image 20240409020832.png",
+    "Assets/Pasted image 20240409020514.png",
+    "Assets/Pasted image 20240409020414.png",
+    "Assets/Pasted image 20240409020219.png",
+    "Assets/Pasted image 20240409015844.png",
+    "Assets/Pasted image 20240409015814.png",
+    "Assets/Pasted image 20240409015613.png",
+    "Assets/Pasted image 20240409015123.png",
+    "Waves.md",
+    "Oscillations.md",
+    "Spaces",
     "Photosynthesis in Higher Plants.md",
     "NEET.md",
-    "Assets/Pasted image 20240406233450.png",
-    "Assets/Untitled.jpg",
-    "Oscillations.md",
-    "Assets/Pasted image 20240407152657.png",
-    "Assets/Springs-in-Series-Combination.png",
-    "Assets/Graphical-representation-of-SHM-2.png",
-    "Assets/Graphical-representation-of-SHM-3.png",
-    "Assets/Pasted image 20240407151517.png",
-    "Assets/Pasted image 20240407151217.png",
-    "Assets/Graphical-representation-of-SHM-1.png",
-    "Assets/Pasted image 20240407151148.png",
     "Untitled",
     "Photosynthesis in Higher Plants.tex",
-    "Spaces",
     "Assets",
     "README.md"
   ]
