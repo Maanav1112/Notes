@@ -39,7 +39,9 @@
   "expandedSpaces": [
     "/",
     "spaces://#NEET",
-    "spaces://#NEET/Botany"
+    "spaces://#NEET/Botany",
+    "spaces://#NEET/spaces://#NEET/Physics",
+    "spaces://#NEET/spaces://#NEET/Botany"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

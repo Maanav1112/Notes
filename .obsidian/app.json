@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "Assets",
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }

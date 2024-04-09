@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a8d800bc9516e8",
+        "id": "88c9236a81f841d8",
         "type": "tabs",
         "children": [
           {
-            "id": "afd851baeeea3165",
+            "id": "9b6bc83c97885f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waves.md",
+                "file": "Oscillations.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "56a2d9cd36a94d23",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waves.md",
+                "file": "Oscillations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waves.md",
+                "file": "Oscillations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waves.md"
+                "file": "Oscillations.md"
               }
             }
           }
@@ -155,8 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afd851baeeea3165",
+  "active": "9b6bc83c97885f14",
   "lastOpenFiles": [
+    "NEET.md",
+    "Oscillations.md",
+    "Assets/Graphical-representation-of-SHM-3.png",
+    "Assets/Graphical-representation-of-SHM-2.png",
+    "Assets/Graphical-representation-of-SHM-1.png",
+    "Photosynthesis in Higher Plants.md",
+    "Waves.md",
+    "Photosynthesis in Higher Plants.pdf",
     "Assets/Pasted image 20240409021445.png",
     "Assets/Pasted image 20240409021208.png",
     "Assets/Pasted image 20240409021037.png",
@@ -164,15 +171,7 @@
     "Assets/Pasted image 20240409020514.png",
     "Assets/Pasted image 20240409020414.png",
     "Assets/Pasted image 20240409020219.png",
-    "Assets/Pasted image 20240409015844.png",
-    "Assets/Pasted image 20240409015814.png",
-    "Assets/Pasted image 20240409015613.png",
-    "Assets/Pasted image 20240409015123.png",
-    "Waves.md",
-    "Oscillations.md",
     "Spaces",
-    "Photosynthesis in Higher Plants.md",
-    "NEET.md",
     "Untitled",
     "Photosynthesis in Higher Plants.tex",
     "Assets",

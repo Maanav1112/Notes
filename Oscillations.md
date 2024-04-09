@@ -1,8 +1,8 @@
 #NEET 
 
 # Velocity in SHM
+![](Graphical-representation-of-SHM-3.png)
 Velocity and displacement curve
-	![[Graphical-representation-of-SHM-3.png]]
 	*The graph between velocity and displacement is an ellipse*
 
 $$x = A \sin(\omega t + \phi)$$
@@ -39,9 +39,16 @@ When spring is cut, spring constant is inversely proprotional to length
 ![[Pasted image 20240407152657.png]]
 
 # Force law for SHM
-F = - kx 
-a = F/M = -k/m x 
+$$
+F = -kx
+$$
+$$
+a = \frac{F}{m} = -\frac{k}{x}m
+$$
+Comparing with, 
 $$a = - \omega^2 x$$
 $$\omega^2 = \frac{k}{m}$$
 $$\omega^2 = \sqrt{\frac{k}{m}}$$
-T = 2 pi root m/k
+$$
+T = 2 \pi \sqrt{\frac{m}{k}}
+$$
