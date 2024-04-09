@@ -1,3 +1,6 @@
+---
+sticker: lucide//loader-2
+---
 #NEET 
 
 # Velocity in SHM

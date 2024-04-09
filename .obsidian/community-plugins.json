@@ -6,5 +6,6 @@
   "make-md",
   "obsidian-pandoc",
   "obsidian-minimal-settings",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "omnisearch"
 ]

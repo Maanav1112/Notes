@@ -38,10 +38,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "spaces://#NEET",
     "spaces://#NEET/Botany",
     "spaces://#NEET/spaces://#NEET/Physics",
-    "spaces://#NEET/spaces://#NEET/Botany"
+    "spaces://#NEET/spaces://#NEET/Botany",
+    "spaces://#NEET"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -86,7 +86,7 @@
   "enableTagSpaces": true,
   "showSpacePinIcon": true,
   "minimalFix": false,
-  "experimental": false,
+  "experimental": true,
   "systemName": "Notes",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",

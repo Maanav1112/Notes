@@ -1,6 +1,10 @@
 ---
-tags: NEET/Physics
+tags:
+  - NEET
+sticker: lucide//waves
 ---
+```table-of-contents
+```
 # What is a wave ?
 
 A wave is a disturbance in medium that carries energy without net movement of particles. 
@@ -101,13 +105,24 @@ $$
 $$
 v_{\text{liquid or gases}} = \sqrt{\frac{B}{\rho}}
 $$
-![[Pasted image 20240409012307.png]]
-![[Pasted image 20240409011831.png]]
-
-![[Pasted image 20240409012213.png]]
-![[Pasted image 20240409012420.png]]
-S_m = displacement amplitude
-P_m = BKS_m
+$$
+v_{gas} = \sqrt{\frac{\gamma p}{\rho}} = \sqrt{\frac{\gamma RT}{M}}
+$$
+**Newton's formula**
+$$
+v = \sqrt{\frac{B}{\rho}} = \sqrt{ \frac{P}{\rho} }
+$$
+$$
+v = 280 \text{ms}
+$$
+**Laplace's formula**
+$$
+v = \sqrt{ \frac{B}{\rho} } = \sqrt{ \frac{\gamma P}{\rho} }
+$$
+$$
+v = 340 ms
+$$
+Agrees with experimentally calculated value
 # Principle of superposition
 The resultant displacement of a number of waves in a medium at a particular point is the algebraic sum of the individual displacements produced by each of the waves at that point
 ![[Pasted image 20240409013255.png]]
@@ -125,9 +140,6 @@ $$
 y_{1}(x,t) = a \sin(kx-\omega t)
 $$
 ![[Pasted image 20240409015814.png]]
-General equation of a standing wave
-![[Pasted image 20240409015844.png]]
-A- Amplitude of any one interfering waves
 ## Nodes and Antinodes
 + Node: Amplitude is minimum
 + Antinode: Amplitude is maximum
