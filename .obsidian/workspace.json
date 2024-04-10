@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88c9236a81f841d8",
+        "id": "80729cd53a9ebe1e",
         "type": "tabs",
         "children": [
           {
-            "id": "9b6bc83c97885f14",
+            "id": "e7d49cdac77da478",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4939c3ca27214135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waves.md",
+                "file": "Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waves.md",
+                "file": "Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waves.md"
+                "file": "Solutions.md"
               }
             }
           }
@@ -153,15 +166,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9b6bc83c97885f14",
+  "active": "4939c3ca27214135",
   "lastOpenFiles": [
-    "Untitled.md",
-    "P Block Elements.md",
     "Waves.md",
+    "Solutions.md",
     "Oscillations.md",
+    "FTS 2.md",
+    "Assets/Pasted image 20240409160859.png",
+    "Assets/Pasted image 20240409160423.png",
+    "P Block Elements.md",
     "NEET.md",
     "Assets/Graphical-representation-of-SHM-3.png",
     "Assets/Graphical-representation-of-SHM-2.png",
@@ -173,8 +190,6 @@
     "Assets/Pasted image 20240409021037.png",
     "Assets/Pasted image 20240409020832.png",
     "Assets/Pasted image 20240409020514.png",
-    "Assets/Pasted image 20240409020414.png",
-    "Assets/Pasted image 20240409020219.png",
     "Spaces",
     "Untitled",
     "Photosynthesis in Higher Plants.tex",
