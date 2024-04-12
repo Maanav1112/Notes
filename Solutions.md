@@ -9,3 +9,4 @@ Components of solution:
 - N = Number of moles
 - MM = Molar mass
 - Mass of solution - Mass of solvent + Mass of solute
++ ![](Pasted%20image%2020240410165059.png)

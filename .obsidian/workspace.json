@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7d49cdac77da478",
+            "id": "010fbc6a3b0b5e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waves.md",
+                "file": "Kirchoff's rue.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4939c3ca27214135",
+            "id": "38ed374a11ab4ca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions.md",
+                "file": "Current Electricity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91bae8b23cdb1b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current Electricity.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions.md",
+                "file": "Current Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions.md",
+                "file": "Current Electricity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions.md"
+                "file": "Current Electricity.md"
               }
             }
           }
@@ -170,26 +182,29 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4939c3ca27214135",
+  "active": "38ed374a11ab4ca2",
   "lastOpenFiles": [
-    "Waves.md",
+    "Assets/Pasted image 20240411203112.png",
+    "Kirchoff's rue.md",
+    "Current Electricity.md",
+    "Assets/Pasted image 20240411202251.png",
+    "Assets/Pasted image 20240411200540.png",
+    "Assets/Pasted image 20240411195731.png",
+    "Assets/Pasted image 20240411195537.png",
+    "Assets/Pasted image 20240411195002.png",
+    "Assets/Pasted image 20240411194756.png",
+    "Assets/Pasted image 20240411194615.png",
+    "Assets/Pasted image 20240411193827.png",
+    "Assets/Pasted image 20240411193616.png",
+    "Assets/Pasted image 20240411193508.png",
     "Solutions.md",
+    "Waves.md",
     "Oscillations.md",
     "FTS 2.md",
-    "Assets/Pasted image 20240409160859.png",
-    "Assets/Pasted image 20240409160423.png",
     "P Block Elements.md",
     "NEET.md",
-    "Assets/Graphical-representation-of-SHM-3.png",
-    "Assets/Graphical-representation-of-SHM-2.png",
-    "Assets/Graphical-representation-of-SHM-1.png",
     "Photosynthesis in Higher Plants.md",
     "Photosynthesis in Higher Plants.pdf",
-    "Assets/Pasted image 20240409021445.png",
-    "Assets/Pasted image 20240409021208.png",
-    "Assets/Pasted image 20240409021037.png",
-    "Assets/Pasted image 20240409020832.png",
-    "Assets/Pasted image 20240409020514.png",
     "Spaces",
     "Untitled",
     "Photosynthesis in Higher Plants.tex",
