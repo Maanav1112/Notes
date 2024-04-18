@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Electricity.md",
+                "file": "Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Electricity.md",
+                "file": "Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Electricity.md",
+                "file": "Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Electricity.md"
+                "file": "Solutions.md"
               }
             }
           }
@@ -184,9 +184,9 @@
   },
   "active": "38ed374a11ab4ca2",
   "lastOpenFiles": [
+    "Current Electricity.md",
     "Assets/Pasted image 20240411203112.png",
     "Kirchoff's rue.md",
-    "Current Electricity.md",
     "Assets/Pasted image 20240411202251.png",
     "Assets/Pasted image 20240411200540.png",
     "Assets/Pasted image 20240411195731.png",
@@ -196,7 +196,6 @@
     "Assets/Pasted image 20240411194615.png",
     "Assets/Pasted image 20240411193827.png",
     "Assets/Pasted image 20240411193616.png",
-    "Assets/Pasted image 20240411193508.png",
     "Solutions.md",
     "Waves.md",
     "Oscillations.md",
