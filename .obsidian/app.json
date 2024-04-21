@@ -3,5 +3,6 @@
   "vimMode": true,
   "promptDelete": false,
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "absolute"
 }
