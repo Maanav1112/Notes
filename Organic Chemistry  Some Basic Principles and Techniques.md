@@ -1,3 +1,4 @@
 [[Inductive Effect]]
-[[Hyperconjugation]]
+![[Hyperconjugation]]
+
 
