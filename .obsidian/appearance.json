@@ -1,8 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Minimal",
-  "textFontFamily": "",
+  "textFontFamily": "scientifica",
   "theme": "obsidian",
-  "baseFontSize": 11,
-  "baseFontSizeAction": true
+  "baseFontSize": 21,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "scientifica"
 }
