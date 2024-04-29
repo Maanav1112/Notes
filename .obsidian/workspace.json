@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "85a8b56cc0d495c8",
+        "id": "cc6e87db40702aae",
         "type": "tabs",
         "children": [
           {
-            "id": "d25ff4ef8d80aa80",
+            "id": "979c0d4a4f09389b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-20.md",
+                "file": "Organic Chemistry  Some Basic Principles and Techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec78b7ac8140c9eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nucleus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6143f56fa6899630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "56a2d9cd36a94d23",
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-20.md",
+                "file": "Nucleus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-20.md",
+                "file": "Nucleus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-20.md"
+                "file": "Nucleus.md"
               }
             }
           }
@@ -159,51 +183,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d25ff4ef8d80aa80",
+  "active": "ec78b7ac8140c9eb",
   "lastOpenFiles": [
-    "EASY-TO-LEARN-BIOLOGY-Handbook-bhbz1b.pdf",
-    "Motion in a PLANR.md",
-    "Assets/Pasted image 20240426000717.png",
-    "Assets/Pasted image 20240426000615.png",
-    "Assets/Pasted image 20240426000451.png",
-    "Assets/Pasted image 20240426000358.png",
-    "Assets/Pasted image 20240426000325.png",
-    "Assets/Pasted image 20240426000322.png",
-    "Assets/Pasted image 20240426000140.png",
-    "Assets/Pasted image 20240425235721.png",
-    "Assets/Pasted image 20240425234538.png",
-    "Photosynthesis in Higher Plants.md",
-    "Assets/Pasted image 20240424145306.png",
-    "Haloalkane and Haloarenes.md",
-    "Current Electricity.md",
-    "Ketcher/Ketcher 4-21-2024 08.47.53.ket",
-    "Waves.md",
-    "Ketcher/Ketcher 4-23-2024 11.21.30.ket",
-    "Complete NEET.md",
-    "Biodiversity and Conservation.md",
+    "Nucleophilic strength.md",
+    "Oogenesis.md",
+    "Resonance.md",
+    "Nucleus.md",
     "Standing wave and normal modes.md",
-    "Hyperconjugation.md",
+    "Turner's syndrome.md",
+    "Transciption and Translation occuring simultaneously in bacteria.md",
+    "Secretin.md",
+    "Respiration in Plants.md",
+    "Rotational Mechanics.md",
+    "Biodiversity and Conservation.md",
+    "Assets/2024-04-26-12-28-44.png",
+    "Assets/2024-04-26-12-27-31.png",
+    "Assets/2024-04-26-12-23-00.png",
+    "Assets/Pasted image 20240427194936.png",
+    "Assets/Pasted image 20240427194912.png",
+    "Assets/Pasted image 20240427194828.png",
+    "Assets/Pasted image 20240427194755.png",
+    "Assets/Pasted image 20240427193512.png",
+    "Assets/Pasted image 20240427193434.jpg",
+    "Assets/Pasted image 20240427192723.png",
     "Organic Chemistry  Some Basic Principles and Techniques.md",
-    "Spaces",
-    "Harmonics.md",
-    "Displacement relation in Progressive Wave.md",
-    "Nodes and Antinodes.md",
-    "Hyperconjugation.pdf",
-    "Solutions.md",
-    "Human Health and Diseases.md",
-    "Complete NEET Syllabus.md",
-    "Ketcher/Ketcher 4-21-2024 08.35.43.ket",
-    "Ketcher",
-    "2024-04-20.md",
-    "FTS 2.md",
-    "2024-04-19.md",
-    "Kirchoff's rue.md",
+    "Required for synthesis of auxin.md",
     "Oscillations.md",
-    "P Block Elements.md",
-    "NEET.md",
-    "Photosynthesis in Higher Plants.pdf",
-    "Untitled",
-    "Photosynthesis in Higher Plants.tex",
-    "README.md"
+    "Complete NEET.md",
+    "Elasticity, Viscocity and Surface Tension.pdf",
+    "Elasticity, Viscocity and Surface Tension.pdf.crdownload",
+    "2024-04-26.md",
+    "Mesomeric Effect.md",
+    "Equilibrium.md",
+    "Cytokinesis.md",
+    "Hyperconjugation.md",
+    "Floral Families.md",
+    "Photosynthesis in Higher Plants.md",
+    "Current Electricity.md",
+    "Spaces/#NEET",
+    "2024-04-20.md",
+    "EASY-TO-LEARN-BIOLOGY-Handbook-bhbz1b.pdf",
+    "Posterior hypothalamus.md",
+    "NEET/Botany/Notes_Molecular Basis of Inheritance.pdf",
+    "Nodes and Antinodes.md",
+    "NEET/Chemistry/NEO_NEET_11_P1_CHE_E_Organic Chemistry - Some Basic Principles & Techniques_S14_211..pdf",
+    "Ketcher/Ketcher 4-21-2024 08.35.43.ket",
+    "Ketcher/Ketcher 4-23-2024 11.21.30.ket",
+    "Ketcher/Ketcher 4-21-2024 08.47.53.ket",
+    "Spaces"
   ]
 }

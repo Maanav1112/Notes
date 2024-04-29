@@ -3,7 +3,7 @@
   "cssTheme": "Minimal",
   "textFontFamily": "scientifica",
   "theme": "obsidian",
-  "baseFontSize": 21,
+  "baseFontSize": 14,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "scientifica"
 }

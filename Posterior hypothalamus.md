@@ -1,0 +1,1 @@
+> Neurohypophysis also known as posterior pituitary, stores and releases two hormones called oxytocin and vasopressin which are actually synthesised by the hypothalamus and are transported axonally to neurohypophysis. Therefore, the posterior pituitary is under the direct neural regulation of the hypothalamus.

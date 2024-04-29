@@ -7,16 +7,16 @@ kanban-plugin: basic
 ## Physics
 
 - [ ] Units and Measurements
-- [ ] Motion in a Straight Line
-- [ ] Motion in a Plane
+- [x] Motion in a Straight Line
+- [x] Motion in a Plane
 - [ ] Newton's Laws of Motion
 - [ ] Work, Energy and Power
 - [ ] System of Particles and Rotational Motion
 - [ ] Gravitatin
-- [ ] Mechanical Proprties of Solids
+- [x] Mechanical Proprties of Solids
 - [ ] Mechanical Propoerties of Liquids
 - [ ] Thermal Properties of Matter
-- [ ] Thermodynamics
+- [x] Thermodynamics
 - [ ] KTC
 - [ ] Oscillations
 - [ ] Waves
@@ -25,41 +25,63 @@ kanban-plugin: basic
 - [ ] Current electricity
 - [ ] Moving Charges and Magnetism
 - [ ] Magnetism and Matter
-- [ ] Electromagnetic Induction
+- [x] Electromagnetic Induction
 - [ ] Electromagnetic Waves
 - [ ] Ray Optics
 - [ ] Wave Optics
-- [ ] Dual Nature of Matter and Magnetqq4ism
-- [ ] Atoms
-- [ ] Nuclei
-- [ ] [ ] Semiconductor3s
+- [ ] Dual Nature of Matter and Magnetism
+- [x] Atoms
+- [x] Nuclei
+- [x] [ ] Semiconductor3s
 
 
 ## Chemistry
 
-- [ ] [Organic Chemistry  Some Basic Principles and Techniques](Organic%20Chemistry%20%20Some%20Basic%20Principles%20and%20Techniques.md)
-- [ ] Hydrocarbons
-- [ ] Alcohol, Phenol and Ethers
-- [ ] [Haloalkane and Haloarenes](Haloalkane%20and%20Haloarenes.md)
-- [ ] Amines
-- [ ] Redox Reaction
-- [ ] Equilibrium
 - [ ] Mole Concept
-- [ ] Structure of Atom
-- [ ] Chemical Bonding and Molecular Structure
+- [x] Structure of Atom
 - [ ] Periodic Classification of Elements
+- [ ] Chemical Bonding and Molecular Structure
+- [ ] Redox Reaction
+- [ ] [Organic Chemistry  Some Basic Principles and Techniques](Organic%20Chemistry%20%20Some%20Basic%20Principles%20and%20Techniques.md)
+- [ ] Solutions
+- [ ] Electrohemistry
+- [x] [Equilibrium](Equilibrium.md)
+- [ ] Chemical Kinetics
+- [ ] Alcohol, Phenol and Ethers
+- [x] [Haloalkane and Haloarenes](Haloalkane%20and%20Haloarenes.md)
+- [x] Amines
 
 
 ## Botany
 
+- [x] The Living World
+- [ ] Plant Kingdom
+- [ ] Photosynthesis in Higher Plans
+- [ ] [[Respiration in Plants]]
+- [ ] Morphology of Flowering Plants
+- [ ] Anatomy of Flowering Plants
+- [x] Plant Growth and Development
+- [x] Sexual Reproduction in Flowering Plants
+- [ ] Principles of Inheritance and Variations
+- [ ] Molecular Basis of Inheritance
+- [ ] Microbes in Human Welfate
 - [ ] [[Biodiversity and Conservation]]
-- [x] Microbes in Human Welfate
+- [x] Ecosystem
+- [x] Organisms and Populatons
 
 
 ## Zoology
 
-- [ ] [Human Health and Diseases](Human%20Health%20and%20Diseases.md)
-- [ ] Molecular Basis of Inheritance
+- [x] Breathing and Exchange of Gases
+- [x] [Human Health and Diseases](Human%20Health%20and%20Diseases.md)
+- [ ] Human Reproduction
+- [x] Reproductive Health
+- [ ] Body Fluids and Circulation
+- [ ] Locomotion and Movement
+- [ ] Chemical co-ordination and integration
+- [x] Biotechnology and its Applications'
+- [x] Biotechnology-Principles and Procedures
+- [x] Evolution
 
 
 ## Completed
@@ -67,7 +89,11 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [ ] Hydrocarbons
 
 %% kanban:settings
 ```
