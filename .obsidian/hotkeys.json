@@ -23,5 +23,13 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }

@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cc6e87db40702aae",
+        "id": "ed382f0cbcc32a9e",
         "type": "tabs",
         "children": [
           {
-            "id": "979c0d4a4f09389b",
+            "id": "4692a3659a0267ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organic Chemistry  Some Basic Principles and Techniques.md",
+                "file": "Rotational Mechanics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec78b7ac8140c9eb",
+            "id": "4e3aed23f135bc58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turner's syndrome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6143f56fa6899630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-26.md",
+                "file": "2024-05-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "56a2d9cd36a94d23",
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turner's syndrome.md",
+                "file": "2024-05-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turner's syndrome.md",
+                "file": "2024-05-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turner's syndrome.md"
+                "file": "2024-05-03.md"
               }
             }
           }
@@ -179,57 +168,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "ketcher:Create new structure": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "ec78b7ac8140c9eb",
+  "active": "4e3aed23f135bc58",
   "lastOpenFiles": [
-    "Transciption and Translation occuring simultaneously in bacteria.md",
-    "Rotational Mechanics.md",
-    "Hyperconjugation.md",
-    "Motion in a PLANR.md",
-    "Human Health and Diseases.md",
-    "Harmonics.md",
-    "Equilibrium.md",
-    "Haloalkane and Haloarenes.md",
-    "Floral Families.md",
-    "Cytokinesis.md",
-    "Photosynthesis in Higher Plants.md",
-    "Standing wave and normal modes.md",
-    "Current Electricity.md",
-    "Biodiversity and Conservation.md",
-    "Respiration in Plants.md",
-    "Nucleus.md",
-    "Organic Chemistry  Some Basic Principles and Techniques.md",
-    "Oogenesis.md",
-    "Resonance.md",
-    "Nucleophilic strength.md",
-    "Turner's syndrome.md",
-    "Secretin.md",
-    "Assets/2024-04-26-12-28-44.png",
-    "Assets/2024-04-26-12-27-31.png",
-    "Assets/2024-04-26-12-23-00.png",
-    "Assets/Pasted image 20240427194936.png",
-    "Assets/Pasted image 20240427194912.png",
-    "Assets/Pasted image 20240427194828.png",
-    "Assets/Pasted image 20240427194755.png",
-    "Assets/Pasted image 20240427193512.png",
-    "Assets/Pasted image 20240427193434.jpg",
-    "Assets/Pasted image 20240427192723.png",
-    "Required for synthesis of auxin.md",
-    "Oscillations.md",
+    "Assets/Pasted image 20240503183202.png",
+    "Assets/Pasted image 20240503183024.png",
+    "Assets/Pasted image 20240503182927.png",
+    "Assets/Pasted image 20240503182622.png",
+    "Assets/Pasted image 20240503182516.png",
+    "Assets/Pasted image 20240503182134.png",
+    "Assets/Pasted image 20240503182014.png",
+    "Assets/Pasted image 20240503181823.png",
+    "Assets/Pasted image 20240503181749.png",
+    "Assets/Pasted image 20240503181228.png",
     "Complete NEET.md",
-    "Elasticity, Viscocity and Surface Tension.pdf",
-    "Elasticity, Viscocity and Surface Tension.pdf.crdownload",
-    "2024-04-26.md",
-    "Spaces/#NEET",
+    "2024-05-03.md",
+    "Rotational Mechanics.md",
+    "Bio.md",
+    "2024-05-01.md",
+    "Current Electricity.md",
+    "Assets/Pasted image 20240501104741.png",
     "EASY-TO-LEARN-BIOLOGY-Handbook-bhbz1b.pdf",
+    "Complete NEET.md~",
+    "Cytokinesis.md",
+    "Waves.md",
+    "Untitled.canvas",
+    "2024-04-30.md",
+    "2024-05-05.md",
+    "Oogenesis.md",
+    "Aromaticity.md",
+    "Transciption and Translation occuring simultaneously in bacteria.md",
+    "Resonance Energy.md",
+    "Resonance.md",
+    "Required for synthesis of auxin.md",
+    "Posterior hypothalamus.md",
+    "Respiration in Plants.md",
+    "Haloalkane and Haloarenes.md",
+    "Equilibrium.md",
+    "Elasticity, Viscocity and Surface Tension.pdf",
+    "Floral Families.md",
+    "System of Particles and Rotational Motion.md",
+    "Hyperconjugation.md",
+    "Photosynthesis in Higher Plants.md",
+    "2024-04-26.md",
+    "Elasticity, Viscocity and Surface Tension.pdf.crdownload",
+    "Spaces/#NEET",
     "NEET/Botany/Notes_Molecular Basis of Inheritance.pdf",
     "NEET/Chemistry/NEO_NEET_11_P1_CHE_E_Organic Chemistry - Some Basic Principles & Techniques_S14_211..pdf",
     "Ketcher/Ketcher 4-21-2024 08.35.43.ket",
     "Ketcher/Ketcher 4-23-2024 11.21.30.ket",
-    "Ketcher/Ketcher 4-21-2024 08.47.53.ket",
-    "Spaces"
+    "Ketcher/Ketcher 4-21-2024 08.47.53.ket"
   ]
 }

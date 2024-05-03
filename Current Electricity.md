@@ -55,3 +55,11 @@ P = I^2R = V^2/R
 
 ![](Pasted%20image%2020240411202251.png)
 ![](Pasted%20image%2020240411203112.png)
+![](Assets/Pasted%20image%2020240501101339.png)
+![](Assets/Pasted%20image%2020240501101512.png)
+![](Assets/Pasted%20image%2020240501101704.png)
+![](Assets/Pasted%20image%2020240501101813.png)
+![](Assets/Pasted%20image%2020240501103705.png)
+![](Assets/Pasted%20image%2020240501104047.png)
+![](Assets/Pasted%20image%2020240501104140.png)
+![](Assets/Pasted%20image%2020240501104741.png)

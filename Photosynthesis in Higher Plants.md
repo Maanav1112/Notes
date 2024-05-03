@@ -1,4 +1,10 @@
 #NEET #Botany [2024-04-24](2024-04-24)
+![](Assets/Pasted%20image%2020240430153436.png)
+![](Assets/Pasted%20image%2020240430153502.png)
+![](Assets/Pasted%20image%2020240430153624.png)
+![](Assets/Pasted%20image%2020240430153642.png)
+![](Assets/Pasted%20image%2020240430153659.png)
+
 
 ![](Assets/Pasted%20image%2020240424125733.png)
 
